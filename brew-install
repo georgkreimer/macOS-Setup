@@ -1,0 +1,53 @@
+brew install mas
+# Xcode
+mas install 497799835
+
+brew install htop
+brew install tree
+brew install rbenv
+brew install nodenv
+brew install python
+brew install python3
+brew install anaconda
+
+brew install postgresapp
+brew install --cask github
+
+brew install zsh-completions zsh-syntax-highlighting zsh-autosuggestions
+brew install --cask visual-studio-code
+
+# brew install --cask lunar
+brew install blackhole-16ch
+brew install --cask hiddenbar
+brew install alt-tab
+
+
+
+brew install mural
+brew install trello
+
+brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv qlimagesize webpquicklook quicklookase qlvideo
+brew install --cask font-hack-nerd-font
+brew install --cask rectangle
+
+
+
+brew install telegram
+brew install whatsapp
+brew install slack
+
+
+brew install amphetamine
+brew install clipy
+
+brew install cyberduck
+
+
+brew install libpq
+
+
+
+brew install --cask wireshark
+brew install --cask crescendo
+brew install --cask OverSight
+brew install lulu
